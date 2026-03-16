@@ -32,8 +32,5 @@ flutter:
   uses-material-design: true
   assets:
     - assets/pngs/
+    - assets/pngs/main_logo.png
 
-flutter_native_splash:
-  color: "#1A1A2E"
-  android: true
-  ios: true
